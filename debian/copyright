@@ -1,0 +1,14 @@
+This package was debianized by Geoff Crompton <geoffc@trinity.unimelb.edu.au> on 
+Tue, 12 Jan 2016 11:23:00 +1100
+
+It was downloaded from:
+http://github.com/nicwaller/puppet-mailman
+
+Puppet manifests are Copyright 2015:
+       Nic Waller <code@nicwaller.com>
+and distributed under the Apache License.
+
+The Debian packaging and patches are Copyright 2016:
+       Geoff Crompton <geoffc@trinity.unimelb.edu.au>
+and covered under the BSD licnese.
+

@@ -1,0 +1,5 @@
+puppet-module-nwaller-mailman (0.1.0) unstable; urgency=low
+
+  * local package, initial packaging RT#144995
+
+ -- Geoff Crompton <geoffc@trinity.unimelb.edu.au>  Mon, 12 Jan 2016 11:51:33 +1100

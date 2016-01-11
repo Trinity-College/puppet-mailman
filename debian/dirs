@@ -1,0 +1,10 @@
+usr/share/puppet/modules
+usr/share/puppet/modules/mailman
+usr/share/puppet/modules/mailman/files
+usr/share/puppet/modules/mailman/manifests
+usr/share/puppet/modules/mailman/templates
+usr/share/puppet/modules/mailman/tests
+usr/share/puppet/modules/mailman/lib
+usr/share/puppet/modules/mailman/lib/puppet/provider
+usr/share/puppet/modules/mailman/lib/puppet/provider/module
+usr/share/puppet/modules/mailman/lib/puppet/type

@@ -1,0 +1,13 @@
+Source: puppet-module-nwaller-mailman
+Section: misc
+Priority: extra
+Maintainer: Nic Waller <code@nicwaller.com>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.9.4
+
+Package: puppet-module-nwaller-mailman
+Architecture: all
+Depends: ${misc:Depends}, puppet-common
+Description: Puppet module for configuring mailman.
+ Puppet module for configuring mailman. supports Hiera parameter binding,
+ tested with NFS and SELinux.
