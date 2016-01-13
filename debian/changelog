@@ -1,3 +1,9 @@
+puppet-module-nwaller-mailman (0.1.1) unstable; urgency=medium
+
+  * update to include @option_hash syntax fix in templates/mm_cfg.py.erb
+
+ -- Geoff Crompton <geoffc@trinity.unimelb.edu.au>  Wed, 13 Jan 2016 12:04:39 +1100
+
 puppet-module-nwaller-mailman (0.1.0) unstable; urgency=low
 
   * local package, initial packaging RT#144995
