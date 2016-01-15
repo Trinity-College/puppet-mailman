@@ -1,3 +1,9 @@
+puppet-module-nwaller-mailman (0.1.1+1) unstable; urgency=medium
+
+  * include writing to /etc/mailman/mm_cfg.py change.
+
+ -- Geoff Crompton <geoffc@trinity.unimelb.edu.au>  Fri, 15 Jan 2016 11:01:36 +1100
+
 puppet-module-nwaller-mailman (0.1.1) unstable; urgency=medium
 
   * update to include @option_hash syntax fix in templates/mm_cfg.py.erb
