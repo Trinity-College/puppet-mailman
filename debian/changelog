@@ -1,3 +1,9 @@
+puppet-module-nwaller-mailman (0.1.1+2) unstable; urgency=medium
+
+  * Allow setting MTA to None.
+
+ -- Geoff Crompton <geoffc@trinity.unimelb.edu.au>  Wed, 20 Jan 2016 15:01:58 +1100
+
 puppet-module-nwaller-mailman (0.1.1+1) unstable; urgency=medium
 
   * include writing to /etc/mailman/mm_cfg.py change.
