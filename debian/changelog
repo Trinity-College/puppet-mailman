@@ -1,3 +1,9 @@
+puppet-module-nwaller-mailman (0.1.1+3) unstable; urgency=medium
+
+  * Alter templates/mm_cfg.py.erb so ordering of options_hash is stable
+
+ -- Geoff Crompton <geoffc@trinity.unimelb.edu.au>  Tue, 18 Oct 2016 09:46:37 +1100
+
 puppet-module-nwaller-mailman (0.1.1+2) unstable; urgency=medium
 
   * Allow setting MTA to None.
